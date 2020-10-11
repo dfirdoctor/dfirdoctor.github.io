@@ -19,8 +19,8 @@ One of the most famous wordlists of them all is the [rockyou](https://github.com
 ### Leaked password
 These wordlist is created from public and open leakes.
 - [Kaonashi](https://github.com/kaonashi-passwords/Kaonashi) 
-  - [Full Wordlist Download] (https://mega.nz/file/nWJXzYzS#P1G8HDiMxq5wFaxeWGWx334Wp9wByj5kMEGLZkVX694)
-  - [Wordlist 14M Download]http://mega.nz/file/7fIlxQaC#BlrWduRgBwWH_Za9SoEJnnq7ySrV4E_NzfTtn_OI418)
+  - [Full Wordlist Download](https://mega.nz/file/nWJXzYzS#P1G8HDiMxq5wFaxeWGWx334Wp9wByj5kMEGLZkVX694)
+  - [Wordlist 14M Download](http://mega.nz/file/7fIlxQaC#BlrWduRgBwWH_Za9SoEJnnq7ySrV4E_NzfTtn_OI418)
 - [Probable Wordlists](https://github.com/berzerk0/Probable-Wordlists)
 - [10MillionCombos](http://download.g0tmi1k.com/wordlists/large/10-million-combos.zip)
 
@@ -30,8 +30,8 @@ Instead of standard Base64 rules in Hashcat there's other alternatives.
 - [Kaonashi](https://github.com/kaonashi-passwords/Kaonashi/tree/master/rules)
 
 ## Wordlist generator
-- [CEWL] (https://digi.ninja/projects/cewl.php)
-- [CUPP] (https://github.com/Mebus/cupp)
+- [CEWL](https://digi.ninja/projects/cewl.php)
+- [CUPP](https://github.com/Mebus/cupp)
 
 ## Resources
 Other links that could be interesting.

@@ -4,6 +4,6 @@ title: New website!
 categories: [Coding, DFIR]
 ---
 
-[Nissi.se](https://www.nissi.se) is a my new website where...
+[Nissi.se](https://www.nissi.se) is my new website where...
 
 ![](/images/reverie-demo.png)

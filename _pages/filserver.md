@@ -13,5 +13,5 @@ Nu för tiden nöjer jag mig med en hemmaserver på 4*8TB + 256GB cache i en ZFS
 
 ## Länkar nutid
 Other links that could be interesting.
-- (https://www.serverbuilds.net/the-original-nas-killer-v10)
-- (https://jro.io/nas/)
+- [https://www.serverbuilds.net/the-original-nas-killer-v10]
+- [https://jro.io/nas/]

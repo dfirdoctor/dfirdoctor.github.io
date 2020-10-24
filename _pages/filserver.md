@@ -13,6 +13,6 @@ Nu för tiden nöjer jag mig med en hemmaserver på 4*8TB + 256GB cache i en ZFS
 
 ## Länkar
 För hemmaserver är detta några bra länkar att starta med
-- [https://www.devroom.io/2020/02/28/building-a-diy-home-server-with-freenas/]
+- [FreeNAS] (https://www.devroom.io/2020/02/28/building-a-diy-home-server-with-freenas/)
 - [https://jro.io/nas/]
 - [https://www.storagereview.com/news/home-lab-deep-dive-u-nas-800-server-build-esxi-freenas]

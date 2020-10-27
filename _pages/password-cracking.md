@@ -35,6 +35,6 @@ Instead of standard Base64 rules in Hashcat there's other alternatives.
 
 ## Resources
 Other links that could be interesting.
-- (https://github.com/xajkep/wordlists)
+- https://github.com/xajkep/wordlists
 - (https://null-byte.wonderhowto.com/how-to/create-custom-wordlists-for-password-cracking-using-mentalist-0183992/)
 - (https://github.com/danielmiessler/SecLists)
